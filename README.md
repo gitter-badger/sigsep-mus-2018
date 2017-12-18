@@ -1,5 +1,7 @@
 # SISEC MUS 2018 Submission
 
+[![Join the chat at https://gitter.im/sigsep-mus-2018/Lobby](https://badges.gitter.im/sigsep-mus-2018/Lobby.svg)](https://gitter.im/sigsep-mus-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 For the MUS18 submission we are handling the submission of the results through GitHub (which means it will be necessary for any participant to have a github account). If you don't have experience with git, don't worry, as everything can be done from within the browser. Also we will add a full tutorial here.
 
 ## Dates
